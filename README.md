@@ -1,3 +1,8 @@
+
+
+DOGFLOW 
+
+
 Este projeto é um software em Python, executado via terminal, desenvolvido como Trabalho Final da disciplina Algoritmos e Programação.
 
 O sistema serve para gerenciar checklists operacionais diários (abertura, produção, delivery, fechamento) e controlar custos de insumos + fichas técnicas de produtos, fornecendo ao usuário:
